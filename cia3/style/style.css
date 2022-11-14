@@ -1,0 +1,249 @@
+body {
+    background-color: beige;
+}
+
+.container-fluid ul {
+    margin-left: 32%;
+}
+
+.nav-link {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #a17c61;
+}
+
+.nav-link:hover {
+    color: #563a34;
+}
+
+.main_head {
+    color: #a17c61;
+    font-style: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    margin-left: 49%;
+}
+
+.dropdown-menu {
+    margin-right: 5%;
+    color: #563a34;
+    background-color: #a17c61;
+}
+
+.dropdown-item:hover {
+    color: #a17c61;
+    background-color: #563a34;
+}
+
+.signUpForm {
+    background-color: beige;
+    align-items: center;
+    margin-top: 15%;
+    margin-left: 22%;
+    margin-right: 22%;
+    padding: 2%;
+    border: 1px solid #a17c61;
+    color: #563a34;
+}
+
+.btnn {
+    margin-top: 2%;
+    border: 1px solid #a17c61;
+    border-radius: 10px;
+    background-color: #a17c61;
+    color: white;
+    padding: 1%;
+}
+
+.btnn:hover {
+    margin-top: 2%;
+    border: 1px solid #563a34;
+    border-radius: 10px;
+    background-color: #563a34;
+    color: white;
+    padding: 1%;
+}
+
+.logInForm {
+    background-color: beige;
+    align-items: center;
+    margin-top: 8%;
+    margin-left: 22%;
+    margin-right: 22%;
+    padding: 2%;
+    border: 1px solid #a17c61;
+    color: #563a34;
+}
+
+.err-msg {
+    color: red;
+}
+
+.footer {
+    margin-top: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #a17c61;
+    padding: 2%;
+    display: flex;
+    position: relative;
+}
+
+.footer_img img {
+    margin-left: 25%;
+    width: 300px;
+    height: 500px;
+    border: 2px solid #563a34;
+}
+
+.message {
+    color: white;
+    margin-top: 5%;
+    margin-left: 30%;
+}
+
+.in_message {
+    margin-top: 20%;
+    display: flex;
+}
+
+.address {
+    width: 200px;
+    margin-top: 5%;
+}
+
+.contact {
+    width: 300px;
+    margin-top: 5%;
+}
+
+.banner {
+    color: white;
+    padding-top: 30%;
+    padding-left: 20%;
+    background-image: url(img/main_banner.png);
+    height: 1000px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.col>.card {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    border: 2px solid #a17c61;
+    width: 250px;
+    background-color: beige;
+}
+
+.card-img-top {
+    height: 150px;
+}
+
+.genre_head {
+    text-align: left;
+    margin-left: 5%;
+    color: #a17c61;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+hr {
+    color: #563a34;
+    padding: 1%;
+}
+
+.lifeStyle {
+    margin-top: 5%;
+}
+
+.cards {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+
+.w3-card-4 {
+    margin: 1%;
+}
+
+.w3-card-4 img {
+    height: 300px;
+    width: 450px;
+}
+
+.card-group {
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.card {
+    border: 2px solid #a17c61;
+    width: 250px;
+    background-color: beige;
+}
+
+.card-title {
+    color: #a17c61;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-text {
+    color: #563a34;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.w3-text {
+    padding: 1%;
+    color: #563a34;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.row {
+    margin: 5%;
+}
+
+.signUp_body {
+    background-image: url(img/signUp.png);
+}
+.alert{
+    margin-top: 1%;
+}
+.log_btn{
+    margin-top: 10%;
+    color: black;
+    border:2px solid black;
+    padding: 1px;
+    padding-left: 1%;
+    padding-right: 1%;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.log_btn:hover{
+    color: #8f2c33;
+    border:2px solid #8f2c33;
+    padding: 1px;
+    padding-left: 1%;
+    padding-right: 1%;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.slog_btn{
+    margin-top: 10%;
+    color: black;
+    border:2px solid black;
+    padding: 1px;
+    padding-left: 1%;
+    padding-right: 1%;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.slog_btn:hover{
+    color: #426d57;
+    border:2px solid #426d57;
+    padding: 1px;
+    padding-left: 1%;
+    padding-right: 1%;
+    border-radius: 5px;
+    text-decoration: none;
+}
